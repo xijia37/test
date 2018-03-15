@@ -1,4 +1,13 @@
 {
-    "name": "txt/test",
-    "require": {}
+  "name": "txt/test",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "ssh://gogs@git.sportsdt.com:32070/zhangxijia/test.git",
+      "packagist.org ": false
+    }
+  ],
+  "require": {
+    "zhangxijia/test": "dev-master"
+  }
 }
