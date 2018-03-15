@@ -1,0 +1,31 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "09b423c15503f73ba19732bdc8722f29",
+    "packages": [
+        {
+            "name": "zhangxijia/test",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "ssh://gogs@git.sportsdt.com:32070/zhangxijia/test.git",
+                "reference": "cffff9adb67d9df4080a87a530d131815ec077c9"
+            },
+            "type": "library",
+            "time": "2018-03-15T08:42:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zhangxijia/test": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
